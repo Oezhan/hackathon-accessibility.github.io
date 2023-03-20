@@ -33,7 +33,7 @@ These are example questions what could **hold somebody back from applying to par
 
 1. Is it possible to bring my assistance dog with me to the venu/ the accomodation?
 2. For people who are noise sensitive
-- are there silence separate rooms?
+>- are there silence separate rooms?
 - are there overear headsets?
 3. For people with privacy concerns - 3 ways to respect privacy:
 - stickers with "Do not touch"
